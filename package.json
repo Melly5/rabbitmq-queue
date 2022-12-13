@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  },
+  "name": "rabbitmq-queue",
+  "description": "",
+  "version": "1.0.0",
+  "main": "send.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melly5/rabbitmq-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melly5/rabbitmq-queue/issues"
+  },
+  "homepage": "https://github.com/Melly5/rabbitmq-queue#readme"
+}
